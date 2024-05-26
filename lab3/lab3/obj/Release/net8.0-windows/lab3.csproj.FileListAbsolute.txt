@@ -1,0 +1,51 @@
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\lab3.exe
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\lab3.deps.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\lab3.runtimeconfig.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\lab3.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\lab3.pdb
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\Prism.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\bin\Release\net8.0-windows\Prism.Wpf.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.csproj.AssemblyReference.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\MainWindow.g.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\App.g.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3_MarkupCompile.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3_MarkupCompile.lref
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\MainWindow.baml
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.g.resources
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.AssemblyInfoInputs.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.AssemblyInfo.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.csproj.CoreCompileInputs.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.sourcelink.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.csproj.Up2Date
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\refint\lab3.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.pdb
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\lab3.genruntimeconfig.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab3\lab3\obj\Release\net8.0-windows\ref\lab3.dll
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\lab3.exe
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\lab3.deps.json
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\lab3.runtimeconfig.json
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\lab3.dll
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\lab3.pdb
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\Prism.dll
+C:\Users\toilet\Desktop\lab3\lab3\bin\Release\net8.0-windows\Prism.Wpf.dll
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.csproj.AssemblyReference.cache
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\App.g.cs
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3_MarkupCompile.cache
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3_MarkupCompile.lref
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.g.resources
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.AssemblyInfoInputs.cache
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.AssemblyInfo.cs
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.csproj.Up2Date
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.dll
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\refint\lab3.dll
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.pdb
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\lab3.genruntimeconfig.cache
+C:\Users\toilet\Desktop\lab3\lab3\obj\Release\net8.0-windows\ref\lab3.dll

@@ -1,0 +1,1 @@
+start ./lab3/bin/Release/net8.0-windows/lab3.exe
